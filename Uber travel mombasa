@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Uber Driver Mombasa</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Uber Driver Mombasa</h1>
+        <p>Reliable Uber Rides in Mombasa</p>
+    </header>
+    
+    <section class="contact">
+        <h2>Contact Me</h2>
+        <p>Phone: <a href="tel:+254706113637">0706 113 637</a></p>
+    </section>
+
+    <section class="about">
+        <h2>About My Service</h2>
+        <p>Offering safe and affordable Uber rides around Mombasa. Available 24/7.</p>
+    </section>
+
+    <footer>
+        <p>© 2025 Uber Driver Mombasa. All rights reserved.</p>
+    </footer>
+</body>
+</html>
